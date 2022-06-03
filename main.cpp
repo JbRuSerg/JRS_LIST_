@@ -12,5 +12,5 @@ int main()
 	setlocale(LC_ALL, "ru");
 	test_list();
 	system("pause");
-	return 0;
+	return 0;//rgergherghe цуацкпукп
 }
